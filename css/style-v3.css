@@ -102,6 +102,7 @@ footer span:last-child { float: right; }
 #portfolio .animate { transform: translate3d(-400px, 60px, 0); opacity: 0; }
 #portfolio h3 { color: #f39c12; }
 #portfolio .portfolio-item { width: 33%; float: left; }
+#portfolio .portfolio-item:hover { opacity: 0.75; }
 #portfolio .portfolio-item img { display: block; width: 100%; }
 
 #skill { min-height: 800px; background: transparent url('../img/bg-skill.jpg') no-repeat center 78% / cover; }
@@ -140,6 +141,7 @@ footer span:last-child { float: right; }
 
 #copyright { position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 10px; }
 
+#html5-elem-wrap { background-color: #000000; }
 #html5-watermark { display: none !important; }
 #html5-image { padding: 0 !important; overflow: hidden;}
 
